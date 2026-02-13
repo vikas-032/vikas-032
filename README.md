@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @vikas-032
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ... Development 
-- 📫 How to reach me ...7014.vikas@gmail.com
+Hi 👋, I'm Vikas Kumar from India 🇮🇳
+Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scalem
+
+
+👨‍💻 About Me
+I am a Developer & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud  platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle. 
 
 
 <!---
