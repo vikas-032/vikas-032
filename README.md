@@ -9,6 +9,8 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 ## 🌐 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=Twitter&logoColor=white)](https://x.com/Vikas_032)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-b40537285/)
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&logo=dev.to&logoColor=white)](https://dev.to/vikas-032)
+
 
 
 <!---
