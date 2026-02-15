@@ -53,8 +53,7 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 
 
-### 🚀 Languages
-- Python | Go | Java | C++
+
 
 ### ⚙️ Tools
 - Docker | Kubernetes | Jenkins | Terraform
