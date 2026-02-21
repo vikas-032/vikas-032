@@ -1,0 +1,20 @@
+Dear [HR Name],
+
+I hope this message finds you well.
+
+I am writing to express my interest in the Python Developer position at your organization. With a strong foundation in Python programming, object-oriented design, and backend development, I am eager to contribute to your engineering team and deliver scalable, high-performance solutions.
+
+I have hands-on experience working with Python, including building REST APIs, working with data structures and algorithms, and developing backend services. I am familiar with frameworks such as Django and Flask, and I have worked with databases like MySQL and PostgreSQL. Additionally, I understand version control systems (Git), basic DevOps workflows, and cloud fundamentals, which help me write production-ready and maintainable code.
+
+I am particularly interested in roles that allow me to work on real-world problem solving, API development, automation scripts, and scalable backend systems. I am a quick learner, highly adaptable, and committed to writing clean, efficient, and testable code.
+
+I would welcome the opportunity to discuss how my skills align with your team's requirements. Please find my resume attached for your consideration. I look forward to your response.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Vikas Kumar
+[Your Phone Number]
+[Your Email Address]
+[LinkedIn Profile]
+[GitHub Profile]
