@@ -63,7 +63,6 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername)](https://git.io/streak-stats)
 
 
 
