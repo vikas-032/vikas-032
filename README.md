@@ -3,7 +3,7 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 
 👨‍💻 About Me
- I am a Developer & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud  platforms. My focus is on scalability,    reliability, security, and automation across the delivery lifecycle. 
+ I am a Developer & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud  platforms. My focus is on scalability, reliability, security,  across the delivery lifecycle. 
 
 
 ## 🌐 Connect with me:
