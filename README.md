@@ -41,7 +41,6 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 ![](https://leetcard.jacoblin.cool/Vikas032?ext=heatmap)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
