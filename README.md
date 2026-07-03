@@ -1,4 +1,4 @@
-         Hey , I'm Vikas Kumar from India 🇮🇳
+Hey , I'm Vikas Kumar from India 🇮🇳
 Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scalem
 
 
