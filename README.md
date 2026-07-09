@@ -1,9 +1,14 @@
-Hey , I'm Vikas Kumar from India 🇮🇳
-Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scalem
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,githubactions,linux,bash,nginx,python,js,ts,react,nextjs,nodejs,html,css&theme=dark&perline=9" />
 
-👨‍💻 About Me
- I am a Developer & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud  platforms. My focus is on scalability, reliability, security,  across the delivery lifecycle. 
+<br/><br/>
+
+<h2>Hi there ✨, I'm Vikas Kumar</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=A+passionate+Cloud+%26+DevOps+Engineer;Automating+Infrastructure+on+AWS;Building+CI%2FCD+Pipelines+with+GitHub+Actions;Always+learning+%E2%80%94+Terraform+%2B+Kubernetes+next" alt="Typing SVG" />
+
+<br/>
 
 
 ## 🌐 Connect with me:
@@ -12,22 +17,7 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&logo=dev.to&logoColor=white)](https://dev.to/vikas-032)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vikas-032)
 
-## 🛠️ Skills
 
-**☁️ Cloud & DevOps** *(primary focus)*
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**💻 Full-Stack Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **🌐 Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
