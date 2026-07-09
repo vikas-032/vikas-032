@@ -12,9 +12,6 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&logo=dev.to&logoColor=white)](https://dev.to/vikas-032)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vikas-032)
 
-
-
-# 💻 Tech Stack:
 ## 🛠️ Skills
 
 **☁️ Cloud & DevOps** *(primary focus)*
@@ -51,13 +48,6 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
  
 
 
-## ☁️ Cloud & DevOps Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vikas-032&show_icons=true&theme=tokyonight&count_private=true)
