@@ -31,7 +31,7 @@ Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-032&layout=compact&theme=tokyonight)
 
 
-  <br/>
+ 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikas-032&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-032&theme=tokyo-night)
 
