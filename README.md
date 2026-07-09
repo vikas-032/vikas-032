@@ -47,6 +47,7 @@
 
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikas-032&theme=tokyonight)
+</br>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-032&theme=tokyo-night)
 
 ---
