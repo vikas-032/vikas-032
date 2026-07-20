@@ -41,6 +41,7 @@ A passionate developer and tech enthusiast based in Delhi, India. I'm committed 
 ## 📊 GitHub Stats
 
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-032&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-032&layout=compact&theme=radical)
 
 ## 🏆 Featured Projects
