@@ -206,9 +206,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
+   
   <img src="https://komarev.com/ghpvc/?username=vikas-032&style=for-the-badge&color=00ff41" alt="Profile Views">
   
-  ⭐ **Star this repo** if you find my work helpful!
   
-  📧 **Email:** [7014.vikas@gmail.com](mailto:7014.vikas@gmail.com)
 </div>
