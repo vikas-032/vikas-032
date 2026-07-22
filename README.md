@@ -40,7 +40,7 @@ A passionate developer and tech enthusiast based in Delhi, India. I'm committed 
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://YOUR-DEPLOYMENT-URL.vercel.app/api/top-langs/?username=vikas-032&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-032&theme=radical)
 
 ## 🏆 Featured Projects
 
